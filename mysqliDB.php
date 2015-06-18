@@ -1,6 +1,6 @@
 <?php
 /*
-# This file is part of MySQLi-Class.
+# This file is part of MySQLiDB.
 #
 # Copyright(c) 2014 Giacomo Cerquone
 # cerquone96@hotmail.it
